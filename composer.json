@@ -1,0 +1,21 @@
+{
+  "name": "emergingdzns/demo_block-extension",
+  "type": "streams-addon",
+  "description": "This is an example block for the Blocks module.",
+  "keywords": [
+    "streams extension",
+    "streams addon",
+    "extension"
+  ],
+  "license": "MIT",
+  "autoload": {
+    "psr-4": {
+      "Emergingdzns\\DemoBlockExtension\\": "src/"
+    }
+  },
+  "extra": {
+    "branch-alias": {
+      "dev-1.0/master": "1.0.x-dev"
+    }
+  }
+}
