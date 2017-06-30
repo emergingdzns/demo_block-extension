@@ -1,4 +1,4 @@
-<?php namespace Anomaly\DemoBlockExtension;
+<?php namespace Emergingdzns\DemoBlockExtension;
 
 use Anomaly\Streams\Platform\Addon\Extension\Extension;
 
@@ -8,7 +8,7 @@ use Anomaly\Streams\Platform\Addon\Extension\Extension;
  * @link          http://anomaly.is/streams-platform
  * @author        AnomalyLabs, Inc. <hello@anomaly.is>
  * @author        Ryan Thompson <ryan@anomaly.is>
- * @package       Anomaly\DemoBlockExtension
+ * @package       Emergingdzns\DemoBlockExtension
  */
 class DemoBlockExtension extends Extension
 {

@@ -1,6 +1,6 @@
 <?php
 
-use Emergingdzns\Streams\Platform\Database\Migration\Migration;
+use Anomaly\Streams\Platform\Database\Migration\Migration;
 
 /**
  * Class EmergingdznsExtensionDemoBlockCreateDemoBlocksStream

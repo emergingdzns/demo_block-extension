@@ -1,4 +1,4 @@
-<?php namespace Anomaly\DemoBlockExtension;
+<?php namespace Emergingdzns\DemoBlockExtension;
 
 use Anomaly\Streams\Platform\Model\DemoBlock\DemoBlockDemoBlocksEntryModel;
 

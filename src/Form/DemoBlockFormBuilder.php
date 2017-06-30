@@ -1,6 +1,6 @@
 <?php namespace Emergingdzns\DemoBlockExtension\Form;
 
-use Emergingdzns\Streams\Platform\Ui\Form\FormBuilder;
+use Anomaly\Streams\Platform\Ui\Form\FormBuilder;
 
 /**
  * Class DemoBlockFormBuilder
